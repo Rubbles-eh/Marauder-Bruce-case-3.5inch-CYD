@@ -15,3 +15,5 @@ https://bruce.computer/
 Launcher:
 http://bmorcelli.github.io/Launcher/
 
+All In One Web Flasher toolkit supporting many popular firmwares:
+https://espterminator.com
